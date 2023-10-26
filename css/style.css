@@ -1,0 +1,80 @@
+.colortext{
+    color: white;
+}
+.background{
+  background-color: #64432C;
+}
+.head{
+    font-size: 14px;
+   padding: 5px;
+   text-align: center;
+   align-self: center;
+    
+    font-weight: bold;
+}
+.pd-banner{
+ 
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.banner-100 {
+    width: 100%;
+    background-size: 100% auto;
+}
+.tieude{
+    font-size: 22px;
+    font-weight: bold;
+    color: #64432C;
+    text-align: center;
+}
+.cuoi{
+    padding-top: 57%;
+    padding-left: 70%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.container {
+    width: 100%;
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+.row {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-6 {
+    width: 50%;
+}
+.tieude1{
+    color:red;
+    font-weight: bold;
+}
+.size{
+    font-size: 13px; 
+}
+.cangiua{
+    text-align: center
+}
+.number{
+    color: white;
+    position:sticky;
+    padding-top: 4px;
+    margin-top: -19%;
+    left: 4px;
+    width: 30%;
+    text-align: center;
+    background-color: #64432C;
+}
+.giua{
+    align-self: center;
+}
+
+
+
+
